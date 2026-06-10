@@ -2,4 +2,5 @@ CREATE TABLE users (
     id INT,
     name STRING
     email STRING
+    phone STRING
 );

@@ -3,6 +3,5 @@ CREATE TABLE users (
     name STRING,
     email STRING,
     phone STRING,
-    created_at TIMESTAMP,
-    phone STRING
+    created_at TIMESTAMP
 );
